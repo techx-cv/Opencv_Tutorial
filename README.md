@@ -14,4 +14,4 @@ Please follow the preview material and go through all the codes in detail.
 
 * Quick Link to [Colab notebook code](https://colab.research.google.com/drive/1C7o5Jmr3woPResY3QbJq73Km-bUtXzwi?usp=sharing)
 
-* Quick Link to [Instruction](https://github.com/techx-cv/Python_Numpy_Tutorial/blob/main/instructions/python%2Bnumpy.pdf)
+* Quick Link to [Instruction](https://github.com/techx-cv/Opencv_Tutorial/blob/main/instructions/Intro2OpenCV%20-%20Jupyter%20Notebook.pdf)
