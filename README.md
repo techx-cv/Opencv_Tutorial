@@ -1,5 +1,5 @@
 # Opencv_Tutorial
-Opencv is a strong package that contains various methods for computer vision. Students attending the CV track must go through all materials and complete corresponding tasks.
+Opencv is a strong package that contains various methodologies for computer vision. Students attending the CV track must go through all materials and complete corresponding tasks.
 ## Language and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/tutorial/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
